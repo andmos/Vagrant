@@ -5,8 +5,7 @@ My Vagrant template with some useful scripts for quick setup.
 
 Just: 
 
-sudo apt-get install virtualbox
-sudo apt-get install Vagrant
+sudo apt-get install -y virtualbox  ; sudo apt-get install -y Vagrant
 
 git clone 
 
