@@ -12,3 +12,7 @@ git clone
 vagrant up
 
 done.
+
+Current tested setup:
+Vagrant v. 1.2.7
+Virtualbox 4.1.18  
