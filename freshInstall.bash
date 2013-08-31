@@ -5,7 +5,7 @@ sudo apt-get install -y $1
     }
 
 programs="build-essential vim tor nmap ssh curl apg smbclient htop git hydra make traceroute screen python-dev openjdk-7-jdk
-apache2" 
+apache2 php5" 
 
 sudo apt-get update
 
