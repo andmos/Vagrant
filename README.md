@@ -3,12 +3,10 @@ Vagrant
 
 My Vagrant template with some useful scripts for quick setup.
 Forwords 8080 to 80 for easy web-development environment.
-
-  sudo apt-get install -y virtualbox vagrant
-  git clone 
-  vagrant up
-
-done.
+ 
+    sudo apt-get install -y virtualbox vagrant
+    git clone 
+    vagrant up
 
 Current tested setup:
 Vagrant v. 1.2.7
