@@ -13,7 +13,7 @@ pass=$(</vagrant/mysqlpw.txt)
  sudo debconf-set-selections <<< "mysql-server mysql-server/root_password_again password $pass"
 
 
-echo "Installing web-server essentials..."
+echo "Installing web-server essentials... "
 
 sudo apt-get update >/dev/null 2>&1 
 
