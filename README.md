@@ -9,5 +9,13 @@ Forwords 8080 to 80 for easy web-development environment.
     vagrant up
 
 Current tested setup:
-Vagrant v. 1.2.7
-Virtualbox 4.1.18  
+OSX:
+
+    Vagrant 1.2.7
+    Virtualbox 4.1.18  
+
+Debian:
+
+    Kernel 3.14
+    Vagrant 1.2.7
+    Virtalbox 4.2.24
